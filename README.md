@@ -1,1 +1,1 @@
-This is aresous' second git project.
+This is the second git project.
